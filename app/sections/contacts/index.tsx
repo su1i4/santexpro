@@ -26,7 +26,7 @@ const contacts = [
     target: "_blank",
   },
   {
-    href: "https://t.me/yourusername",
+    href: "https://t.me/semeteevnurs",
     label: "Telegram",
     sub: "Напишите нам",
     icon: (

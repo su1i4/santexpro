@@ -41,7 +41,7 @@ export default function Footer() {
                 </svg>
               </a>
               <a
-                href="https://t.me/yourusername"
+                href="https://t.me/semeteevnurs"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="w-9 h-9 rounded-lg bg-gray-800 border border-gray-700 hover:border-sky-500/60 hover:bg-sky-600/10 flex items-center justify-center text-gray-400 hover:text-sky-400 transition-all duration-200"

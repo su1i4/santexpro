@@ -157,7 +157,7 @@ export default function JsonLd() {
     sameAs: [
       "https://2gis.kg/bishkek/firm/ЗАМЕНИ_НА_ID", // 2GIS — КРИТИЧНО для Бишкека
       `https://wa.me/${PHONE_RAW}`,
-      "https://t.me/yourusername",
+      "https://t.me/semeteevnurs",
     ],
   };
 
