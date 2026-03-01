@@ -8,7 +8,7 @@ import { PHONE_NUMBER } from "@/app/lib/constants";
  *   <JsonLd />
  */
 export default function JsonLd() {
-  const BASE_URL = "https://santexpro.kg";
+  const BASE_URL = "https://prosantex.com";
   const PHONE_RAW = "996XXXXXXXXX"; // Только цифры, без +
 
   // ── 1. LocalBusiness — Plumber ──────────────────────────────────────────────

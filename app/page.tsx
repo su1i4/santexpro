@@ -15,7 +15,7 @@ export const metadata: Metadata = {
   description:
     "Сантехник в Бишкеке — выезд от 30 минут, бесплатная диагностика, гарантия 12 месяцев. Устраняем протечки, меняем сантехнику, прочищаем трубы. Работаем 24/7. Звоните!",
   alternates: {
-    canonical: "https://santexpro.kg",
+    canonical: "https://prosantex.com",
   },
 };
 
