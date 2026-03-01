@@ -5,6 +5,7 @@ import AboutUs from "./sections/AboutUs";
 import FAQ from "./sections/FAQ";
 import Contacts from "./sections/contacts";
 import Footer from "./components/Footer";
+import Application from "./sections/application";
 
 export default function Home() {
   return (
@@ -13,6 +14,7 @@ export default function Home() {
      <Services />
      <WhyUs />
      <AboutUs />
+     <Application />
      <FAQ />
      <Contacts />
      <Footer />
